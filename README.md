@@ -5,4 +5,4 @@ Usage: parser.pl --file <input_filename> --user_name <db username> --password <d
 
 ##UI part
 
-The simple cgi script 
+The simple cgi script + form.html
